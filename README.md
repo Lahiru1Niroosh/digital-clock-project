@@ -19,4 +19,4 @@
 - Enjoy the live, real-time digital clock!
 
 **Live Preview**<br>
-- Follow This Link : 
+- Follow This Link : https://lahiru1niroosh.github.io/digital-clock-project/
